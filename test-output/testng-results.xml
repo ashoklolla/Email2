@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6523" started-at="2017-05-26T17:02:05Z" finished-at="2017-05-26T17:02:11Z">
+  <suite name="Suite" duration-ms="4732" started-at="2017-05-26T19:11:24Z" finished-at="2017-05-26T19:11:29Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6523" started-at="2017-05-26T17:02:05Z" finished-at="2017-05-26T17:02:11Z">
+    <test name="Test" duration-ms="4732" started-at="2017-05-26T19:11:24Z" finished-at="2017-05-26T19:11:29Z">
       <class name="Email.EmailCommons.SendingEmail">
-        <test-method status="PASS" signature="TestMain()[pri:0, instance:Email.EmailCommons.SendingEmail@1810399e]" name="TestMain" duration-ms="6483" started-at="2017-05-26T22:32:05Z" finished-at="2017-05-26T22:32:11Z">
+        <test-method status="PASS" signature="TestMain()[pri:0, instance:Email.EmailCommons.SendingEmail@215be6bb]" name="TestMain" duration-ms="4692" started-at="2017-05-27T00:41:24Z" finished-at="2017-05-27T00:41:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestMain -->
       </class> <!-- Email.EmailCommons.SendingEmail -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
